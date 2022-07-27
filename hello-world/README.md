@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Class Names
-Class Components - Tutorial 6
+Class Components - Tutorial 8

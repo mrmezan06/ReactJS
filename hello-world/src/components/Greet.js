@@ -4,7 +4,7 @@ import React from "react";
 
 // Javascript function that returns a React component
 /* function Greet() {
-  return <h1>Hello Akash</h1>;
+  return <h1>Hello JS Function Style</h1>;
 }
 
  */
@@ -12,7 +12,7 @@ import React from "react";
 /* const Greet = () => <h1>Hello Akash</h1>;
  */
 
-const Greet = () => <h1>Hello Akash</h1>
+const Greet = () => <h1>Hello ES6 Style</h1>
 
 export default Greet;
 
