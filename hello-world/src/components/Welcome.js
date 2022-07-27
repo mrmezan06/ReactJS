@@ -4,7 +4,7 @@ import React, { Component } from "react";
 
 class Welcome extends Component {
   render() {
-    return <h1>Welcome Class Style</h1>;
+    return <h2>Welcome Mr{this.props.gender=="F"?"s":""}. {this.props.name} -&gt; Hero: {this.props.badge}</h2>;
   }
 }
 
